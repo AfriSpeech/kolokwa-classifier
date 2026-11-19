@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.flac
+*.wav
+*.mp3
+checkpoints/
+*.egg-info/
+.venv/
+.DS_Store
